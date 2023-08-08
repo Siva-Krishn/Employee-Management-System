@@ -1,0 +1,137 @@
+{
+  "Employee": [
+    {
+      "id": 1,
+      "name": "Rudved M",
+      "email": "rudved@example.com",
+      "salary": 40000,
+      "city": "Bangalore"
+    },
+    {
+      "id": 2,
+      "name": "Darshini",
+      "email": "darshini@example.com",
+      "salary": "40000",
+      "city": "Hyderabad"
+    },
+    {
+      "id": 3,
+      "name": "Siva",
+      "email": "siva@example.com",
+      "salary": 35000,
+      "city": "Bangalore"
+    },
+    {
+      "id": 4,
+      "name": "Mokshith",
+      "email": "mokshith@example.com",
+      "salary": 35000,
+      "city": "Bangalore"
+    },
+    {
+      "id": 5,
+      "name": "Gowtham",
+      "email": "gowtham@example.com",
+      "salary": 35000,
+      "city": "Vizag"
+    },
+    {
+      "id": 6,
+      "name": "Mahendra",
+      "email": "mahendra@example.com",
+      "salary": 40000,
+      "city": "Hyderabad"
+    },
+    {
+      "id": 7,
+      "name": "Sai krishna",
+      "email": "sai@example.com",
+      "salary": 35000,
+      "city": "Bangalore"
+    },
+    {
+      "id": 8,
+      "name": "Jeevan",
+      "email": "jeevan@example.com",
+      "salary": 35000,
+      "city": "Hyderabad"
+    },
+    {
+      "id": 9,
+      "name": "Praveen",
+      "email": "praveen@example.com",
+      "salary": 40000,
+      "city": "Hyderabad"
+    },
+    {
+      "id": 10,
+      "name": "Mahesh",
+      "email": "mahesh@example.com",
+      "salary": 35000,
+      "city": "Bangalore"
+    },
+    {
+      "id": 11,
+      "name": "Saleem",
+      "email": "saleem@example.com",
+      "salary": 35000,
+      "city": "Vizag"
+    },
+    {
+      "id": 12,
+      "name": "krishna",
+      "email": "krishna@example.com",
+      "salary": 35000,
+      "city": "Bangalore"
+    },
+    {
+      "id": 13,
+      "name": "Sathwik",
+      "email": "satwik@example.com",
+      "salary": 35000,
+      "city": "Vizag"
+    },
+    {
+      "id": 14,
+      "name": "Jagadhish",
+      "email": "jagadhish@example.com",
+      "salary": 35000,
+      "city": "Bangalore"
+    },
+    {
+      "id": 16,
+      "name": "Pavan",
+      "email": "pavan@example.com",
+      "salary": 35000,
+      "city": "Hyderabad"
+    },
+    {
+      "id": 17,
+      "name": "Seenu",
+      "email": "seenu@example.com",
+      "salary": 35000,
+      "city": "Bangalore"
+    },
+    {
+      "id": 18,
+      "name": "Ravi",
+      "email": "ravi@example.com",
+      "salary": 35000,
+      "city": "Bangalore"
+    },
+    {
+      "id": 19,
+      "name": "Rajiv",
+      "email": "rajiv@example.com",
+      "salary": 35000,
+      "city": "Bangalore"
+    },
+    {
+      "id": 20,
+      "name": "Swathi",
+      "email": "swathi@example.com",
+      "salary": 35000,
+      "city": "Hyderabad"
+    }
+  ]
+}
